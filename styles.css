@@ -1,0 +1,62 @@
+/*-- Modal --*/
+textarea {
+    width: 100%;
+}
+
+.modal-footer {
+    border-top: 0px 
+}
+
+#icons {
+    color: gray;
+    margin-left: 20px;
+}
+
+/*-- Navbar --*/
+.navbar-brand {
+    margin-left: 80px;
+}
+
+.fa-instagram:before {
+    font-size: 30;
+    color: gray;
+}
+
+i {
+    margin-right: 5px;
+}
+
+#instagram {   
+    font-family: 'Oleo Script', cursive;
+    color: gray;
+    font-size: 25;
+}
+
+/*-- Perfiles --*/
+.nav-tabs {
+    border-bottom: 0px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {    
+    border: 0px;
+}
+.fa-stop:before {  
+    color: grey;
+}
+.fa-bars:before, .fa-navicon:before {
+    color: gray;
+}
+
+/*-- Container --*/
+#container-profile {
+    background: rgb(224, 220, 220);
+}
+
+/*-- Perfil 1 Imagen --*/
+#img-margen {
+    border: 5px solid white;
+}
+
+/*-- Perfil 2 --*/
+.card {
+    margin-top: 30px;
+}
